@@ -1,6 +1,6 @@
 # VueI18n documentation for v5.x
 
-VueI18n is internationalization plugin of Vue.js
+VueI18n is an internationalization plugin for Vue.js
 
 * [Installation](https://github.com/kazupon/vue-i18n/tree/5.x/gitbook/installation.md)
 * [Getting Started](https://github.com/kazupon/vue-i18n/tree/5.x/gitbook/started.md)
